@@ -24,7 +24,7 @@ of the CodeIgniter User Guide.
 ![Home - Footer Page](https://raw.githubusercontent.com/farrasmuttaqin/asysyifa_care-website/master/assets/img/screen-shoot/footer.png)
 <p align="center">Figure 1: Home Page</p>
 
-Home page is a symbolize of Asy-Syifa Care, used to grab the visitor's attention and show the outline of Asy-Syifa Care. Dashboard content include Testimonial and Top Products. Testimonial is used to increase customer trust to use Asyifa products and Top Products Page used to showing up the best product based on most purchases and reviews. 
+Home page is a symbolize of Asy-Syifa Care, used to grab the visitor's attention and show the outline of Asy-Syifa Care. Dashboard content include Our Services, Testimonial and Top Products. Our Services is a video to give brief explanation of Asy-Syifa Care, Testimonial is used to increase customer trust to use Asyifa products and Top Products Page used to showing up the best product based on most purchases and reviews. 
 
 ![Blog Page](https://github.com/farrasmuttaqin/asysyifa_care-website/blob/master/assets/img/screen-shoot/blog.png)
 ![Article Page](https://github.com/farrasmuttaqin/asysyifa_care-website/blob/master/assets/img/screen-shoot/article.png)
