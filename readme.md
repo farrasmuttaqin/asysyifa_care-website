@@ -45,7 +45,7 @@ All Products Page contain information about all Asy-Syifa Care Product, which is
 ![Products Page](https://github.com/farrasmuttaqin/asysyifa_care-website/blob/master/assets/img/screen-shoot/product.png)
 <p align="center">Figure 5: Product Page</p>
 
-Product Page giving the detail of Product, there are Description, Additional Information, Revies, Price, Stock and Information about Related Products.
+Product Page giving the detail of Product, there are Description, Additional Information, Reviews, Price, Stock and Information about Related Products.
 
 ![Cart Page](https://github.com/farrasmuttaqin/asysyifa_care-website/blob/master/assets/img/screen-shoot/cart.png)
 <p align="center">Figure 6: Cart Page</p>
